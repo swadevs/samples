@@ -3,7 +3,7 @@
 [{
   "app_title": "City Transit",
   "app_desc": "Online Transit time across 1000s of cities around the world!",
-  "app_icon": "https://lh3.googleusercontent.com/LZdm3glOciIX6JITLraEi9VeSojPIjkNzY44XU0_Zb2iY2EnqEVSXxPwxKvhwfaC3A=s360-rw",
+  "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/map_box_shot.png",
   "app_header_image": "",
   "app_uri": "com.swash.traveller.main",
   "app_rating": "4.5",
