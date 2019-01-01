@@ -1,7 +1,7 @@
 {
  "apps":
 [{
-  "app_title": "Focus - Be Productive",
+  "app_title": "Focus - Be ",
   "app_desc": "This App is shown because it is not Installed... \nNevermind the Icon though!",
   "app_icon": "https://lh3.googleusercontent.com/V_rwOqRNtWEIt45uuYysCn1f9EM4MCO8MYUPM4wM9lkxCSKhW4IpV2ODY6nKadEn_0c=s200-rw",
   "app_header_image": "https://www.lazygeniouz.com/wp-content/uploads/2018/05/wp-1526648554582.png",
@@ -17,7 +17,7 @@
   "app_icon": "https://lh3.googleusercontent.com/A81EGvZRbDuDgoTdahsJe5CiPXbfTHn2im38NkBkMXtu9ZXYBG7G9Bwr8TJ5Ic8QZA=s200-rw",
   "app_header_image": "https://www.lazygeniouz.com/wp-content/uploads/2018/05/PicsArt_1498745231853.jpg",
   "app_uri": "com.lazygeniouz.saveit",
-  "app_rating": "4.6",
+  "app_rating": "4.6",Productive
   "app_cta_text": "Install",
   "app_price": "Free",
   "app_adType": "dialog"
@@ -48,7 +48,7 @@
 
 {
    "app_interstitial_url": "https://www.lazygeniouz.com/houseAds/four.png",
-   "app_uri": "https://www.lazygeniouz.com",
+   "app_uri": "https://www.google.com",
    "app_adType": "interstitial"
 },
 
