@@ -1,0 +1,23 @@
+[
+
+{
+	"name": "Your App Name",
+	"rating": 5,
+	"package_name": "package name",
+	"image": "icon image link"
+},
+
+{
+	"name": "Call Blocker",
+	"rating": 4.8,
+	"package_name": "com.playoffstudio.callblocker",
+	"image": "https://lh3.googleusercontent.com/CnqXt1s12Mzu-rzMcUEQpdmsk3SlBSHCHtmc02T8pTqngJeij6hLFIgcwi1R8G-Fs-am=w300"
+},
+{
+	"name": "USA Online Shopping",
+	"rating": 5,
+	"package_name": "com.creativeapp.usashopping",
+	"image": "https://lh3.googleusercontent.com/PiGn6kwmGltl7QEgMUwHtdpCJ7sPrTZOpY-ezN5zK6OJR0GNAB7c64yTMEI497Lhb9s=w300"
+}
+
+]
