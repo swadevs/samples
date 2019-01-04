@@ -46,7 +46,7 @@
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_transit.png",
     "app_interstitial_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_interstitial_transit.png",
-    "app_rating": 5,
+    "app_ratings": 5,
     "app_country": "NZ",
     "app_city": "auckland",
     "app_price": "Free",
