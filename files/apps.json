@@ -631,7 +631,7 @@
     "app_title": "Paris Transit",
     "app_uri": "com.swash.transitworld.parisp",
     "app_desc": "Online and Offline Public Transit, Timetable, Map, Directions, Network, Fare",
-    "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/parisp.png",
+    "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/paris.png",
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_transit.png",
     "app_interstitial_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_interstitial_transit.png",
@@ -991,7 +991,7 @@
   {
     "app_title": "Ricerca di parole",
     "app_uri": "com.solala.wordsearch.pro.es",
-    "app_desc": "¡Tómese un descanso de la palabra! Misterio, diccionario, voz, temas",
+    "app_desc": "√ÅT¬ómese un descanso de la palabra! Misterio, diccionario, voz, temas",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/wordsearch_pro_es.png",
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_word.png",
@@ -1010,7 +1010,7 @@
   {
     "app_title": "Recherche de mot",
     "app_uri": "com.solala.wordsearch.pro.fr",
-    "app_desc": "Faites une pause de mot! Mystère, dictionnaire, voix, thèmes",
+    "app_desc": "Faites une pause de mot! Myst¬ère, dictionnaire, voix, th¬èmes",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/wordsearch_pro_fr.png",
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_word.png",
@@ -1029,7 +1029,7 @@
   {
     "app_title": "Wortsuche",
     "app_uri": "com.solala.wordsearch.pro.de",
-    "app_desc": "Ein Wort Pause! Geheimnis, Wörterbuch, Stimme, Themen",
+    "app_desc": "Ein Wort Pause! Geheimnis, W¬örterbuch, Stimme, Themen",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/wordsearch_pro_de.png",
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_word.png",
@@ -1046,7 +1046,7 @@
     "app_features": "Classic word game\nMystery words\nOffline dictionary\nNatural sounding voice"
   },
   {
-    "app_title": "Búsqueda de palabras",
+    "app_title": "B¬úsqueda de palabras",
     "app_uri": "com.solala.wordsearch.pro.it",
     "app_desc": "Prenditi una pausa di parola! Mistero, dizionario, voce, temi",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/wordsearch_pro_it.png",
@@ -1086,7 +1086,7 @@
   {
     "app_title": "Ricerca di parole",
     "app_uri": "com.solala.wordsearch.es",
-    "app_desc": "¡Tómese un descanso de la palabra! Misterio, diccionario, voz, temas",
+    "app_desc": "√ÅT¬ómese un descanso de la palabra! Misterio, diccionario, voz, temas",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/wordsearch_free_es.png",
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_word.png",
@@ -1105,7 +1105,7 @@
   {
     "app_title": "Recherche de mot",
     "app_uri": "com.solala.wordsearch.fr",
-    "app_desc": "Faites une pause de mot! Mystère, dictionnaire, voix, thèmes",
+    "app_desc": "Faites une pause de mot! Myst¬ère, dictionnaire, voix, th¬èmes",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/wordsearch_free_fr.png",
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_word.png",
@@ -1124,7 +1124,7 @@
   {
     "app_title": "Wortsuche",
     "app_uri": "com.solala.wordsearch.de",
-    "app_desc": "Ein Wort Pause! Geheimnis, Wörterbuch, Stimme, Themen",
+    "app_desc": "Ein Wort Pause! Geheimnis, W¬örterbuch, Stimme, Themen",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/wordsearch_free_de.png",
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_word.png",
@@ -1141,7 +1141,7 @@
     "app_features": "Classic word game\nMystery words\nOffline dictionary\nNatural sounding voice"
   },
   {
-    "app_title": "Búsqueda de palabras",
+    "app_title": "B¬úsqueda de palabras",
     "app_uri": "com.solala.wordsearch.it",
     "app_desc": "Prenditi una pausa di parola! Mistero, dizionario, voce, temi",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/wordsearch_free_it.png",
@@ -1181,7 +1181,7 @@
   {
     "app_title": "Chaque Mot",
     "app_uri": "com.navwonders.eachword.fr",
-    "app_desc": "Il y a plus de mots! Dictionnaire, anagramme avec plaisir illimité !",
+    "app_desc": "Il y a plus de mots! Dictionnaire, anagramme avec plaisir illimit¬é !",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/ew_fr.png",
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_word.png",
@@ -1200,7 +1200,7 @@
   {
     "app_title": "Jedes Wort",
     "app_uri": "com.navwonders.eachword.de",
-    "app_desc": "Es gibt mehr Wörter! Lernen Sie mit Spaß ohne Grenzen!",
+    "app_desc": "Es gibt mehr W¬örter! Lernen Sie mit Spa¬ß ohne Grenzen!",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/ew_de.png",
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_word.png",
@@ -1238,7 +1238,7 @@
   {
     "app_title": "Cada palabra",
     "app_uri": "com.navwonders.eachword.es",
-    "app_desc": "¡Hay más palabras! ¡Aprender con diversión ilimitada!",
+    "app_desc": "√ÅHay m¬ás palabras! √ÅAprender con diversi¬ón ilimitada!",
     "app_icon": "https://raw.githubusercontent.com/swadevs/samples/master/images/ew_es.png",
     "app_header_image": "",
     "app_banner_bkg_image": "https://raw.githubusercontent.com/swadevs/samples/master/images/ad_bkg_word.png",
